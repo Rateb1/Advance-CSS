@@ -1139,8 +1139,8 @@ body {
 }
 
 /* PHone */
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 464px) {
     html {
-        font-size: 28%;
+        font-size: 25%;
     }
 }
