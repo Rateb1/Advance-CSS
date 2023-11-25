@@ -1131,15 +1131,8 @@ body {
     top: 0;
 }
 
-/* Tablet */
-@media screen and (max-width: 540px) {
-    html {
-        font-size: 39%;
-    }
-}
-
 /* PHone */
-@media screen and (max-width: 464px) {
+@media screen and (max-width: 871px) {
     html {
         font-size: 25%;
     }
