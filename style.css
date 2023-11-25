@@ -7,7 +7,7 @@
 }
 
 html {
-    font-size: 25.5%;
+    font-size: 67.5%;
 }
 
 body {
@@ -1132,8 +1132,8 @@ body {
 }
 
 /* PHone */
-/* @media screen and (max-width: 871px) {
+@media screen and (max-width: 520px) {
     html {
         font-size: 25%;
     }
-} */
+}
